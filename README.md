@@ -1,3 +1,5 @@
+![GitHub Downloads (specific asset, latest release)](https://img.shields.io/github/downloads/DogFoxX/potato-launcher/latest/potato-launcher.exe?style=flat-square&logo=github&label=Total%20Downloads&color=Lime)
+
 # Potato Launcher
 A small utility to keep Yuzu EA updated.
 Since Yuzu doesn't have it's own built-in way of updating, this app will be a handy tool.
